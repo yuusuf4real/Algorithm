@@ -1,0 +1,4 @@
+//AlgGender
+
+INPUT : genders <- [ “M”, “M”, “F”, “F”, “M”, “F”, “M”, “F”, “F”, “M”, “M” ]
+OUTPUT : { “male”: 6, “female”: 5 }
